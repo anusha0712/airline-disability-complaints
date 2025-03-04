@@ -1,0 +1,719 @@
+year,carrier,type_of_complaint,count
+2023.0,American,Refusal To Board Passenger ,35 
+2023.0,American,Refusal to Board w/o Attendant ,6 
+2023.0,American,Security Issues Regarding Disability ,4 
+2023.0,American,Aircraft Not Accessible ,11 
+2023.0,American,Airport Not Accessible ,4 
+2023.0,American,Advance Notice Dispute ,9 
+2023.0,American,Seating Accommodation ,759 
+2023.0,American,Failure to Provide Assistance ,5887 
+2023.0,American,Damage to Assistive Device ,186 
+2023.0,American,Storage and Delay of Assistive Device ,644 
+2023.0,American,Service Animal Problem ,341 
+2023.0,American,Unsatisfactory Info ,71 
+2023.0,American,Other ,1760 
+2023.0,Delta,Refusal To Board Passenger ,69 
+2023.0,Delta,Refusal to Board w/o Attendant ,4 
+2023.0,Delta,Security Issues Regarding Disability ,7 
+2023.0,Delta,Aircraft Not Accessible ,13 
+2023.0,Delta,Airport Not Accessible ,15 
+2023.0,Delta,Advance Notice Dispute ,14 
+2023.0,Delta,Seating Accommodation ,783 
+2023.0,Delta,Failure to Provide Assistance ,6438 
+2023.0,Delta,Damage to Assistive Device ,428 
+2023.0,Delta,Storage and Delay of Assistive Device ,199 
+2023.0,Delta,Service Animal Problem ,313 
+2023.0,Delta,Unsatisfactory Info ,69 
+2023.0,Delta,Other ,461 
+2023.0,United,Refusal To Board Passenger ,21 
+2023.0,United,Refusal to Board w/o Attendant ,1 
+2023.0,United,Security Issues Regarding Disability ,4 
+2023.0,United,Aircraft Not Accessible ,24 
+2023.0,United,Airport Not Accessible ,10 
+2023.0,United,Advance Notice Dispute ,6 
+2023.0,United,Seating Accommodation ,491 
+2023.0,United,Failure to Provide Assistance ,5403 
+2023.0,United,Damage to Assistive Device ,137 
+2023.0,United,Storage and Delay of Assistive Device ,302 
+2023.0,United,Service Animal Problem ,164 
+2023.0,United,Unsatisfactory Info ,65 
+2023.0,United,Other ,394 
+2023.0,Southwest,Refusal To Board Passenger ,34 
+2023.0,Southwest,Refusal to Board w/o Attendant ,3 
+2023.0,Southwest,Security Issues Regarding Disability ,3 
+2023.0,Southwest,Aircraft Not Accessible ,10 
+2023.0,Southwest,Airport Not Accessible ,5 
+2023.0,Southwest,Advance Notice Dispute ,0 
+2023.0,Southwest,Seating Accommodation ,155 
+2023.0,Southwest,Failure to Provide Assistance ,3497 
+2023.0,Southwest,Damage to Assistive Device ,267 
+2023.0,Southwest,Storage and Delay of Assistive Device ,454 
+2023.0,Southwest,Service Animal Problem ,461 
+2023.0,Southwest,Unsatisfactory Info ,16 
+2023.0,Southwest,Other ,2186 
+2023.0,Alaska Airlines,Refusal To Board Passenger ,8 
+2023.0,Alaska Airlines,Refusal to Board w/o Attendant ,0 
+2023.0,Alaska Airlines,Security Issues Regarding Disability ,0 
+2023.0,Alaska Airlines,Aircraft Not Accessible ,4 
+2023.0,Alaska Airlines,Airport Not Accessible ,5 
+2023.0,Alaska Airlines,Advance Notice Dispute ,0 
+2023.0,Alaska Airlines,Seating Accommodation ,89 
+2023.0,Alaska Airlines,Failure to Provide Assistance ,683 
+2023.0,Alaska Airlines,Damage to Assistive Device ,25 
+2023.0,Alaska Airlines,Storage and Delay of Assistive Device ,27 
+2023.0,Alaska Airlines,Service Animal Problem ,80 
+2023.0,Alaska Airlines,Unsatisfactory Info ,5 
+2023.0,Alaska Airlines,Other ,116 
+2023.0,JetBlue,Refusal To Board Passenger ,18 
+2023.0,JetBlue,Refusal to Board w/o Attendant ,0 
+2023.0,JetBlue,Security Issues Regarding Disability ,0 
+2023.0,JetBlue,Aircraft Not Accessible ,2 
+2023.0,JetBlue,Airport Not Accessible ,0 
+2023.0,JetBlue,Advance Notice Dispute ,0 
+2023.0,JetBlue,Seating Accommodation ,218 
+2023.0,JetBlue,Failure to Provide Assistance ,1038 
+2023.0,JetBlue,Damage to Assistive Device ,37 
+2023.0,JetBlue,Storage and Delay of Assistive Device ,221 
+2023.0,JetBlue,Service Animal Problem ,513 
+2023.0,JetBlue,Unsatisfactory Info ,2 
+2023.0,JetBlue,Other ,79 
+2023.0,Spirit,Refusal To Board Passenger ,58 
+2023.0,Spirit,Refusal to Board w/o Attendant ,0 
+2023.0,Spirit,Security Issues Regarding Disability ,0 
+2023.0,Spirit,Aircraft Not Accessible ,7 
+2023.0,Spirit,Airport Not Accessible ,2 
+2023.0,Spirit,Advance Notice Dispute ,51 
+2023.0,Spirit,Seating Accommodation ,359 
+2023.0,Spirit,Failure to Provide Assistance ,1403 
+2023.0,Spirit,Damage to Assistive Device ,180 
+2023.0,Spirit,Storage and Delay of Assistive Device ,310 
+2023.0,Spirit,Service Animal Problem ,288 
+2023.0,Spirit,Unsatisfactory Info ,16 
+2023.0,Spirit,Other ,753 
+2023.0,Frontier,Refusal To Board Passenger ,17 
+2023.0,Frontier,Refusal to Board w/o Attendant ,1 
+2023.0,Frontier,Security Issues Regarding Disability ,0 
+2023.0,Frontier,Aircraft Not Accessible ,0 
+2023.0,Frontier,Airport Not Accessible ,2 
+2023.0,Frontier,Advance Notice Dispute ,1 
+2023.0,Frontier,Seating Accommodation ,62 
+2023.0,Frontier,Failure to Provide Assistance ,546 
+2023.0,Frontier,Damage to Assistive Device ,40 
+2023.0,Frontier,Storage and Delay of Assistive Device ,56 
+2023.0,Frontier,Service Animal Problem ,66 
+2023.0,Frontier,Unsatisfactory Info ,19 
+2023.0,Frontier,Other ,49 
+2023.0,SkyWest,Refusal To Board Passenger ,1 
+2023.0,SkyWest,Refusal to Board w/o Attendant ,0 
+2023.0,SkyWest,Security Issues Regarding Disability ,0 
+2023.0,SkyWest,Aircraft Not Accessible ,0 
+2023.0,SkyWest,Airport Not Accessible ,0 
+2023.0,SkyWest,Advance Notice Dispute ,0 
+2023.0,SkyWest,Seating Accommodation ,4 
+2023.0,SkyWest,Failure to Provide Assistance ,12 
+2023.0,SkyWest,Damage to Assistive Device ,0 
+2023.0,SkyWest,Storage and Delay of Assistive Device ,4 
+2023.0,SkyWest,Service Animal Problem ,6 
+2023.0,SkyWest,Unsatisfactory Info ,0 
+2023.0,SkyWest,Other ,10 
+2023.0,Hawaiian,Refusal To Board Passenger ,6 
+2023.0,Hawaiian,Refusal to Board w/o Attendant ,1 
+2023.0,Hawaiian,Security Issues Regarding Disability ,0 
+2023.0,Hawaiian,Aircraft Not Accessible ,1 
+2023.0,Hawaiian,Airport Not Accessible ,1 
+2023.0,Hawaiian,Advance Notice Dispute ,0 
+2023.0,Hawaiian,Seating Accommodation ,29 
+2023.0,Hawaiian,Failure to Provide Assistance ,43 
+2023.0,Hawaiian,Damage to Assistive Device ,20 
+2023.0,Hawaiian,Storage and Delay of Assistive Device ,7 
+2023.0,Hawaiian,Service Animal Problem ,24 
+2023.0,Hawaiian,Unsatisfactory Info ,2 
+2023.0,Hawaiian,Other ,47 
+2023.0,Allegiant Air,Refusal To Board Passenger ,10 
+2023.0,Allegiant Air,Refusal to Board w/o Attendant ,0 
+2023.0,Allegiant Air,Security Issues Regarding Disability ,0 
+2023.0,Allegiant Air,Aircraft Not Accessible ,0 
+2023.0,Allegiant Air,Airport Not Accessible ,0 
+2023.0,Allegiant Air,Advance Notice Dispute ,0 
+2023.0,Allegiant Air,Seating Accommodation ,63 
+2023.0,Allegiant Air,Failure to Provide Assistance ,161 
+2023.0,Allegiant Air,Damage to Assistive Device ,23 
+2023.0,Allegiant Air,Storage and Delay of Assistive Device ,11 
+2023.0,Allegiant Air,Service Animal Problem ,70 
+2023.0,Allegiant Air,Unsatisfactory Info ,117 
+2023.0,Allegiant Air,Other ,23 
+2022.0,American,Refusal To Board Passenger ,39 
+2022.0,American,Refusal to Board w/o Attendant ,2 
+2022.0,American,Security Issues Regarding Disability ,2 
+2022.0,American,Aircraft Not Accessible ,3 
+2022.0,American,Airport Not Accessible ,3 
+2022.0,American,Advance Notice Dispute ,2 
+2022.0,American,Seating Accommodation ,484 
+2022.0,American,Failure to Provide Assistance ,4820 
+2022.0,American,Damage to Assistive Device ,163 
+2022.0,American,Storage and Delay of Assistive Device ,747 
+2022.0,American,Service Animal Problem ,348 
+2022.0,American,Unsatisfactory Info ,63 
+2022.0,American,Other ,3578 
+2022.0,Delta,Refusal To Board Passenger ,36 
+2022.0,Delta,Refusal to Board w/o Attendant ,4 
+2022.0,Delta,Security Issues Regarding Disability ,3 
+2022.0,Delta,Aircraft Not Accessible ,14 
+2022.0,Delta,Airport Not Accessible ,12 
+2022.0,Delta,Advance Notice Dispute ,11 
+2022.0,Delta,Seating Accommodation ,611 
+2022.0,Delta,Failure to Provide Assistance ,5260 
+2022.0,Delta,Damage to Assistive Device ,258 
+2022.0,Delta,Storage and Delay of Assistive Device ,213 
+2022.0,Delta,Service Animal Problem ,350 
+2022.0,Delta,Unsatisfactory Info ,26 
+2022.0,Delta,Other ,350 
+2022.0,United,Refusal To Board Passenger ,8 
+2022.0,United,Refusal to Board w/o Attendant ,0 
+2022.0,United,Security Issues Regarding Disability ,3 
+2022.0,United,Aircraft Not Accessible ,13 
+2022.0,United,Airport Not Accessible ,6 
+2022.0,United,Advance Notice Dispute ,0 
+2022.0,United,Seating Accommodation ,337 
+2022.0,United,Failure to Provide Assistance ,3552 
+2022.0,United,Damage to Assistive Device ,99 
+2022.0,United,Storage and Delay of Assistive Device ,215 
+2022.0,United,Service Animal Problem ,157 
+2022.0,United,Unsatisfactory Info ,45 
+2022.0,United,Other ,274 
+2022.0,Southwest,Refusal To Board Passenger ,32 
+2022.0,Southwest,Refusal to Board w/o Attendant ,0 
+2022.0,Southwest,Security Issues Regarding Disability ,0 
+2022.0,Southwest,Aircraft Not Accessible ,2 
+2022.0,Southwest,Airport Not Accessible ,7 
+2022.0,Southwest,Advance Notice Dispute ,0 
+2022.0,Southwest,Seating Accommodation ,160 
+2022.0,Southwest,Failure to Provide Assistance ,3517 
+2022.0,Southwest,Damage to Assistive Device ,243 
+2022.0,Southwest,Storage and Delay of Assistive Device ,506 
+2022.0,Southwest,Service Animal Problem ,365 
+2022.0,Southwest,Unsatisfactory Info ,15 
+2022.0,Southwest,Other ,1581 
+2022.0,Alaska Airlines,Refusal To Board Passenger ,8 
+2022.0,Alaska Airlines,Refusal to Board w/o Attendant ,0 
+2022.0,Alaska Airlines,Security Issues Regarding Disability ,0 
+2022.0,Alaska Airlines,Aircraft Not Accessible ,4 
+2022.0,Alaska Airlines,Airport Not Accessible ,5 
+2022.0,Alaska Airlines,Advance Notice Dispute ,0 
+2022.0,Alaska Airlines,Seating Accommodation ,89 
+2022.0,Alaska Airlines,Failure to Provide Assistance ,683 
+2022.0,Alaska Airlines,Damage to Assistive Device ,25 
+2022.0,Alaska Airlines,Storage and Delay of Assistive Device ,27 
+2022.0,Alaska Airlines,Service Animal Problem ,80 
+2022.0,Alaska Airlines,Unsatisfactory Info ,5 
+2022.0,Alaska Airlines,Other ,116 
+2022.0,JetBlue,Refusal To Board Passenger ,15 
+2022.0,JetBlue,Refusal to Board w/o Attendant ,0 
+2022.0,JetBlue,Security Issues Regarding Disability ,0 
+2022.0,JetBlue,Aircraft Not Accessible ,0 
+2022.0,JetBlue,Airport Not Accessible ,0 
+2022.0,JetBlue,Advance Notice Dispute ,0 
+2022.0,JetBlue,Seating Accommodation ,202 
+2022.0,JetBlue,Failure to Provide Assistance ,1039 
+2022.0,JetBlue,Damage to Assistive Device ,36 
+2022.0,JetBlue,Storage and Delay of Assistive Device ,243 
+2022.0,JetBlue,Service Animal Problem ,596 
+2022.0,JetBlue,Unsatisfactory Info ,1 
+2022.0,JetBlue,Other ,133 
+2022.0,Spirit,Refusal To Board Passenger ,28 
+2022.0,Spirit,Refusal to Board w/o Attendant ,0 
+2022.0,Spirit,Security Issues Regarding Disability ,1 
+2022.0,Spirit,Aircraft Not Accessible ,1 
+2022.0,Spirit,Airport Not Accessible ,8 
+2022.0,Spirit,Advance Notice Dispute ,45 
+2022.0,Spirit,Seating Accommodation ,257 
+2022.0,Spirit,Failure to Provide Assistance ,1006 
+2022.0,Spirit,Damage to Assistive Device ,119 
+2022.0,Spirit,Storage and Delay of Assistive Device ,114 
+2022.0,Spirit,Service Animal Problem ,283 
+2022.0,Spirit,Unsatisfactory Info ,21 
+2022.0,Spirit,Other ,538 
+2022.0,Frontier,Refusal To Board Passenger ,8 
+2022.0,Frontier,Refusal to Board w/o Attendant ,0 
+2022.0,Frontier,Security Issues Regarding Disability ,0 
+2022.0,Frontier,Aircraft Not Accessible ,1 
+2022.0,Frontier,Airport Not Accessible ,0 
+2022.0,Frontier,Advance Notice Dispute ,0 
+2022.0,Frontier,Seating Accommodation ,16 
+2022.0,Frontier,Failure to Provide Assistance ,346 
+2022.0,Frontier,Damage to Assistive Device ,11 
+2022.0,Frontier,Storage and Delay of Assistive Device ,22 
+2022.0,Frontier,Service Animal Problem ,28 
+2022.0,Frontier,Unsatisfactory Info ,4 
+2022.0,Frontier,Other ,66 
+2022.0,SkyWest,Refusal To Board Passenger ,0 
+2022.0,SkyWest,Refusal to Board w/o Attendant ,0 
+2022.0,SkyWest,Security Issues Regarding Disability ,0 
+2022.0,SkyWest,Aircraft Not Accessible ,0 
+2022.0,SkyWest,Airport Not Accessible ,0 
+2022.0,SkyWest,Advance Notice Dispute ,0 
+2022.0,SkyWest,Seating Accommodation ,6 
+2022.0,SkyWest,Failure to Provide Assistance ,32 
+2022.0,SkyWest,Damage to Assistive Device ,1 
+2022.0,SkyWest,Storage and Delay of Assistive Device ,7 
+2022.0,SkyWest,Service Animal Problem ,10 
+2022.0,SkyWest,Unsatisfactory Info ,1 
+2022.0,SkyWest,Other ,8 
+2022.0,Hawaiian,Refusal To Board Passenger ,1 
+2022.0,Hawaiian,Refusal to Board w/o Attendant ,0 
+2022.0,Hawaiian,Security Issues Regarding Disability ,0 
+2022.0,Hawaiian,Aircraft Not Accessible ,1 
+2022.0,Hawaiian,Airport Not Accessible ,0 
+2022.0,Hawaiian,Advance Notice Dispute ,0 
+2022.0,Hawaiian,Seating Accommodation ,46 
+2022.0,Hawaiian,Failure to Provide Assistance ,79 
+2022.0,Hawaiian,Damage to Assistive Device ,40 
+2022.0,Hawaiian,Storage and Delay of Assistive Device ,18 
+2022.0,Hawaiian,Service Animal Problem ,30 
+2022.0,Hawaiian,Unsatisfactory Info ,3 
+2022.0,Hawaiian,Other ,24 
+2022.0,Allegiant Air,Refusal To Board Passenger ,0 
+2022.0,Allegiant Air,Refusal to Board w/o Attendant ,0 
+2022.0,Allegiant Air,Security Issues Regarding Disability ,0 
+2022.0,Allegiant Air,Aircraft Not Accessible ,0 
+2022.0,Allegiant Air,Airport Not Accessible ,0 
+2022.0,Allegiant Air,Advance Notice Dispute ,0 
+2022.0,Allegiant Air,Seating Accommodation ,41 
+2022.0,Allegiant Air,Failure to Provide Assistance ,167 
+2022.0,Allegiant Air,Damage to Assistive Device ,5 
+2022.0,Allegiant Air,Storage and Delay of Assistive Device ,8 
+2022.0,Allegiant Air,Service Animal Problem ,230 
+2022.0,Allegiant Air,Unsatisfactory Info ,66 
+2022.0,Allegiant Air,Other ,15 
+2021.0,American,Refusal To Board Passenger,18
+2021.0,American,Refusal to Board w/o Attendant,3
+2021.0,American,Security Issues Regarding Disability,2
+2021.0,American,Aircraft Not Accessible,12
+2021.0,American,Airport Not Accessible,5
+2021.0,American,Advance Notice Dispute,2
+2021.0,American,Seating Accommodation,556
+2021.0,American,Failure to Provide Assistance ,6168
+2021.0,American,Damage to Assistive Device,108
+2021.0,American,Storage and Delay of Assistive Device ,658
+2021.0,American,Service Animal Problem,392
+2021.0,American,Unsatisfactory Info,45
+2021.0,American,Other,3444
+2021.0,Delta,Refusal To Board Passenger,48
+2021.0,Delta,Refusal to Board w/o Attendant,3
+2021.0,Delta,Security Issues Regarding Disability,0
+2021.0,Delta,Aircraft Not Accessible,8
+2021.0,Delta,Airport Not Accessible,4
+2021.0,Delta,Advance Notice Dispute,17
+2021.0,Delta,Seating Accommodation,308
+2021.0,Delta,Failure to Provide Assistance ,4211
+2021.0,Delta,Damage to Assistive Device,19
+2021.0,Delta,Storage and Delay of Assistive Device ,72
+2021.0,Delta,Service Animal Problem,235
+2021.0,Delta,Unsatisfactory Info,31
+2021.0,Delta,Other,371
+2021.0,United,Refusal To Board Passenger,21
+2021.0,United,Refusal to Board w/o Attendant,0
+2021.0,United,Security Issues Regarding Disability,3
+2021.0,United,Aircraft Not Accessible,7
+2021.0,United,Airport Not Accessible,3
+2021.0,United,Advance Notice Dispute,1
+2021.0,United,Seating Accommodation,246
+2021.0,United,Failure to Provide Assistance ,2470
+2021.0,United,Damage to Assistive Device,55
+2021.0,United,Storage and Delay of Assistive Device ,157
+2021.0,United,Service Animal Problem,135
+2021.0,United,Unsatisfactory Info,32
+2021.0,United,Other,231
+2021.0,Southwest,Refusal To Board Passenger,38
+2021.0,Southwest,Refusal to Board w/o Attendant,1
+2021.0,Southwest,Security Issues Regarding Disability,0
+2021.0,Southwest,Aircraft Not Accessible,7
+2021.0,Southwest,Airport Not Accessible,3
+2021.0,Southwest,Advance Notice Dispute,0
+2021.0,Southwest,Seating Accommodation,189
+2021.0,Southwest,Failure to Provide Assistance ,3537
+2021.0,Southwest,Damage to Assistive Device,178
+2021.0,Southwest,Storage and Delay of Assistive Device ,350
+2021.0,Southwest,Service Animal Problem,714
+2021.0,Southwest,Unsatisfactory Info,46
+2021.0,Southwest,Other,1345
+2021.0,Alaska Airlines,Refusal To Board Passenger,1
+2021.0,Alaska Airlines,Refusal to Board w/o Attendant,0
+2021.0,Alaska Airlines,Security Issues Regarding Disability,0
+2021.0,Alaska Airlines,Aircraft Not Accessible,1
+2021.0,Alaska Airlines,Airport Not Accessible,1
+2021.0,Alaska Airlines,Advance Notice Dispute,0
+2021.0,Alaska Airlines,Seating Accommodation,21
+2021.0,Alaska Airlines,Failure to Provide Assistance ,248
+2021.0,Alaska Airlines,Damage to Assistive Device,10
+2021.0,Alaska Airlines,Storage and Delay of Assistive Device ,8
+2021.0,Alaska Airlines,Service Animal Problem,26
+2021.0,Alaska Airlines,Unsatisfactory Info,4
+2021.0,Alaska Airlines,Other,51
+2021.0,JetBlue,Refusal To Board Passenger,6
+2021.0,JetBlue,Refusal to Board w/o Attendant,1
+2021.0,JetBlue,Security Issues Regarding Disability,0
+2021.0,JetBlue,Aircraft Not Accessible,4
+2021.0,JetBlue,Airport Not Accessible,1
+2021.0,JetBlue,Advance Notice Dispute,0
+2021.0,JetBlue,Seating Accommodation,109
+2021.0,JetBlue,Failure to Provide Assistance ,666
+2021.0,JetBlue,Damage to Assistive Device,13
+2021.0,JetBlue,Storage and Delay of Assistive Device ,101
+2021.0,JetBlue,Service Animal Problem,698
+2021.0,JetBlue,Unsatisfactory Info,2
+2021.0,JetBlue,Other,92
+2021.0,Spirit,Refusal To Board Passenger,54
+2021.0,Spirit,Refusal to Board w/o Attendant,0
+2021.0,Spirit,Security Issues Regarding Disability,2
+2021.0,Spirit,Aircraft Not Accessible,1
+2021.0,Spirit,Airport Not Accessible,1
+2021.0,Spirit,Advance Notice Dispute,78
+2021.0,Spirit,Seating Accommodation,218
+2021.0,Spirit,Failure to Provide Assistance ,660
+2021.0,Spirit,Damage to Assistive Device,76
+2021.0,Spirit,Storage and Delay of Assistive Device ,117
+2021.0,Spirit,Service Animal Problem,250
+2021.0,Spirit,Unsatisfactory Info,33
+2021.0,Spirit,Other,490
+2021.0,Frontier,Refusal To Board Passenger,2
+2021.0,Frontier,Refusal to Board w/o Attendant,0
+2021.0,Frontier,Security Issues Regarding Disability,0
+2021.0,Frontier,Aircraft Not Accessible,1
+2021.0,Frontier,Airport Not Accessible,1
+2021.0,Frontier,Advance Notice Dispute,2
+2021.0,Frontier,Seating Accommodation,11
+2021.0,Frontier,Failure to Provide Assistance ,134
+2021.0,Frontier,Damage to Assistive Device,6
+2021.0,Frontier,Storage and Delay of Assistive Device ,4
+2021.0,Frontier,Service Animal Problem,12
+2021.0,Frontier,Unsatisfactory Info,1
+2021.0,Frontier,Other,22
+2021.0,SkyWest,Refusal To Board Passenger,0
+2021.0,SkyWest,Refusal to Board w/o Attendant,0
+2021.0,SkyWest,Security Issues Regarding Disability,0
+2021.0,SkyWest,Aircraft Not Accessible,0
+2021.0,SkyWest,Airport Not Accessible,0
+2021.0,SkyWest,Advance Notice Dispute,0
+2021.0,SkyWest,Seating Accommodation,8
+2021.0,SkyWest,Failure to Provide Assistance ,14
+2021.0,SkyWest,Damage to Assistive Device,0
+2021.0,SkyWest,Storage and Delay of Assistive Device ,9
+2021.0,SkyWest,Service Animal Problem,6
+2021.0,SkyWest,Unsatisfactory Info,0
+2021.0,SkyWest,Other,5
+2021.0,Hawaiian,Refusal To Board Passenger,2
+2021.0,Hawaiian,Refusal to Board w/o Attendant,0
+2021.0,Hawaiian,Security Issues Regarding Disability,0
+2021.0,Hawaiian,Aircraft Not Accessible,0
+2021.0,Hawaiian,Airport Not Accessible,1
+2021.0,Hawaiian,Advance Notice Dispute,0
+2021.0,Hawaiian,Seating Accommodation,21
+2021.0,Hawaiian,Failure to Provide Assistance ,40
+2021.0,Hawaiian,Damage to Assistive Device,36
+2021.0,Hawaiian,Storage and Delay of Assistive Device ,10
+2021.0,Hawaiian,Service Animal Problem,34
+2021.0,Hawaiian,Unsatisfactory Info,0
+2021.0,Hawaiian,Other,31
+2021.0,Allegiant Air,Refusal To Board Passenger,10
+2021.0,Allegiant Air,Refusal to Board w/o Attendant,0
+2021.0,Allegiant Air,Security Issues Regarding Disability,0
+2021.0,Allegiant Air,Aircraft Not Accessible,0
+2021.0,Allegiant Air,Airport Not Accessible,0
+2021.0,Allegiant Air,Advance Notice Dispute,0
+2021.0,Allegiant Air,Seating Accommodation,28
+2021.0,Allegiant Air,Failure to Provide Assistance ,182
+2021.0,Allegiant Air,Damage to Assistive Device,6
+2021.0,Allegiant Air,Storage and Delay of Assistive Device ,2
+2021.0,Allegiant Air,Service Animal Problem,214
+2021.0,Allegiant Air,Unsatisfactory Info,82
+2021.0,Allegiant Air,Other,9
+2020.0,American,Refusal To Board Passenger,16
+2020.0,American,Refusal to Board w/o Attendant,3
+2020.0,American,Security Issues Regarding Disability,4
+2020.0,American,Aircraft Not Accessible,4
+2020.0,American,Airport Not Accessible,3
+2020.0,American,Advance Notice Dispute,6
+2020.0,American,Seating Accommodation,417
+2020.0,American,Failure to Provide Assistance ,2327
+2020.0,American,Damage to Assistive Device,57
+2020.0,American,Storage and Delay of Assistive Device ,351
+2020.0,American,Service Animal Problem,447
+2020.0,American,Unsatisfactory Info,34
+2020.0,American,Other,513
+2020.0,Delta,Refusal To Board Passenger,20
+2020.0,Delta,Refusal to Board w/o Attendant,0
+2020.0,Delta,Security Issues Regarding Disability,0
+2020.0,Delta,Aircraft Not Accessible,8
+2020.0,Delta,Airport Not Accessible,2
+2020.0,Delta,Advance Notice Dispute,16
+2020.0,Delta,Seating Accommodation,133
+2020.0,Delta,Failure to Provide Assistance ,1336
+2020.0,Delta,Damage to Assistive Device,50
+2020.0,Delta,Storage and Delay of Assistive Device ,32
+2020.0,Delta,Service Animal Problem,182
+2020.0,Delta,Unsatisfactory Info,16
+2020.0,Delta,Other,61
+2020.0,United,Refusal To Board Passenger,3
+2020.0,United,Refusal to Board w/o Attendant,0
+2020.0,United,Security Issues Regarding Disability,2
+2020.0,United,Aircraft Not Accessible,6
+2020.0,United,Airport Not Accessible,3
+2020.0,United,Advance Notice Dispute,0
+2020.0,United,Seating Accommodation,137
+2020.0,United,Failure to Provide Assistance ,1219
+2020.0,United,Damage to Assistive Device,20
+2020.0,United,Storage and Delay of Assistive Device ,60
+2020.0,United,Service Animal Problem,199
+2020.0,United,Unsatisfactory Info,29
+2020.0,United,Other,142
+2020.0,Southwest,Refusal To Board Passenger,17
+2020.0,Southwest,Refusal to Board w/o Attendant,0
+2020.0,Southwest,Security Issues Regarding Disability,1
+2020.0,Southwest,Aircraft Not Accessible,1
+2020.0,Southwest,Airport Not Accessible,7
+2020.0,Southwest,Advance Notice Dispute,0
+2020.0,Southwest,Seating Accommodation,94
+2020.0,Southwest,Failure to Provide Assistance ,617
+2020.0,Southwest,Damage to Assistive Device,47
+2020.0,Southwest,Storage and Delay of Assistive Device ,111
+2020.0,Southwest,Service Animal Problem,581
+2020.0,Southwest,Unsatisfactory Info,29
+2020.0,Southwest,Other,662
+2020.0,Alaska Airlines,Refusal To Board Passenger,0
+2020.0,Alaska Airlines,Refusal to Board w/o Attendant,0
+2020.0,Alaska Airlines,Security Issues Regarding Disability,0
+2020.0,Alaska Airlines,Aircraft Not Accessible,1
+2020.0,Alaska Airlines,Airport Not Accessible,0
+2020.0,Alaska Airlines,Advance Notice Dispute,0
+2020.0,Alaska Airlines,Seating Accommodation,25
+2020.0,Alaska Airlines,Failure to Provide Assistance ,176
+2020.0,Alaska Airlines,Damage to Assistive Device,1
+2020.0,Alaska Airlines,Storage and Delay of Assistive Device ,6
+2020.0,Alaska Airlines,Service Animal Problem,35
+2020.0,Alaska Airlines,Unsatisfactory Info,0
+2020.0,Alaska Airlines,Other,60
+2020.0,JetBlue,Refusal To Board Passenger,3
+2020.0,JetBlue,Refusal to Board w/o Attendant,0
+2020.0,JetBlue,Security Issues Regarding Disability,0
+2020.0,JetBlue,Aircraft Not Accessible,1
+2020.0,JetBlue,Airport Not Accessible,2
+2020.0,JetBlue,Advance Notice Dispute,0
+2020.0,JetBlue,Seating Accommodation,72
+2020.0,JetBlue,Failure to Provide Assistance ,316
+2020.0,JetBlue,Damage to Assistive Device,3
+2020.0,JetBlue,Storage and Delay of Assistive Device ,18
+2020.0,JetBlue,Service Animal Problem,268
+2020.0,JetBlue,Unsatisfactory Info,0
+2020.0,JetBlue,Other,57
+2020.0,Spirit,Refusal To Board Passenger,32
+2020.0,Spirit,Refusal to Board w/o Attendant,0
+2020.0,Spirit,Security Issues Regarding Disability,1
+2020.0,Spirit,Aircraft Not Accessible,1
+2020.0,Spirit,Airport Not Accessible,2
+2020.0,Spirit,Advance Notice Dispute,6
+2020.0,Spirit,Seating Accommodation,130
+2020.0,Spirit,Failure to Provide Assistance ,246
+2020.0,Spirit,Damage to Assistive Device,26
+2020.0,Spirit,Storage and Delay of Assistive Device ,53
+2020.0,Spirit,Service Animal Problem,321
+2020.0,Spirit,Unsatisfactory Info,47
+2020.0,Spirit,Other,255
+2020.0,Frontier,Refusal To Board Passenger,0
+2020.0,Frontier,Refusal to Board w/o Attendant,0
+2020.0,Frontier,Security Issues Regarding Disability,0
+2020.0,Frontier,Aircraft Not Accessible,0
+2020.0,Frontier,Airport Not Accessible,0
+2020.0,Frontier,Advance Notice Dispute,0
+2020.0,Frontier,Seating Accommodation,5
+2020.0,Frontier,Failure to Provide Assistance ,72
+2020.0,Frontier,Damage to Assistive Device,0
+2020.0,Frontier,Storage and Delay of Assistive Device ,7
+2020.0,Frontier,Service Animal Problem,14
+2020.0,Frontier,Unsatisfactory Info,8
+2020.0,Frontier,Other,8
+2020.0,SkyWest,Refusal To Board Passenger,0
+2020.0,SkyWest,Refusal to Board w/o Attendant,0
+2020.0,SkyWest,Security Issues Regarding Disability,0
+2020.0,SkyWest,Aircraft Not Accessible,0
+2020.0,SkyWest,Airport Not Accessible,0
+2020.0,SkyWest,Advance Notice Dispute,0
+2020.0,SkyWest,Seating Accommodation,6
+2020.0,SkyWest,Failure to Provide Assistance ,11
+2020.0,SkyWest,Damage to Assistive Device,1
+2020.0,SkyWest,Storage and Delay of Assistive Device ,5
+2020.0,SkyWest,Service Animal Problem,10
+2020.0,SkyWest,Unsatisfactory Info,0
+2020.0,SkyWest,Other,3
+2020.0,Hawaiian,Refusal To Board Passenger,1
+2020.0,Hawaiian,Refusal to Board w/o Attendant,0
+2020.0,Hawaiian,Security Issues Regarding Disability,0
+2020.0,Hawaiian,Aircraft Not Accessible,0
+2020.0,Hawaiian,Airport Not Accessible,1
+2020.0,Hawaiian,Advance Notice Dispute,0
+2020.0,Hawaiian,Seating Accommodation,30
+2020.0,Hawaiian,Failure to Provide Assistance ,24
+2020.0,Hawaiian,Damage to Assistive Device,11
+2020.0,Hawaiian,Storage and Delay of Assistive Device ,11
+2020.0,Hawaiian,Service Animal Problem,24
+2020.0,Hawaiian,Unsatisfactory Info,1
+2020.0,Hawaiian,Other,21
+2020.0,Allegiant Air,Refusal To Board Passenger,6
+2020.0,Allegiant Air,Refusal to Board w/o Attendant,0
+2020.0,Allegiant Air,Security Issues Regarding Disability,0
+2020.0,Allegiant Air,Aircraft Not Accessible,0
+2020.0,Allegiant Air,Airport Not Accessible,0
+2020.0,Allegiant Air,Advance Notice Dispute,0
+2020.0,Allegiant Air,Seating Accommodation,56
+2020.0,Allegiant Air,Failure to Provide Assistance ,101
+2020.0,Allegiant Air,Damage to Assistive Device,37
+2020.0,Allegiant Air,Storage and Delay of Assistive Device ,8
+2020.0,Allegiant Air,Service Animal Problem,162
+2020.0,Allegiant Air,Unsatisfactory Info,92
+2020.0,Allegiant Air,Other,32
+2019.0,American,Refusal To Board Passenger,32
+2019.0,American,Refusal to Board w/o Attendant,2
+2019.0,American,Security Issues Regarding Disability,0
+2019.0,American,Aircraft Not Accessible,13
+2019.0,American,Airport Not Accessible,6
+2019.0,American,Advance Notice Dispute,8
+2019.0,American,Seating Accommodation,1204
+2019.0,American,Failure to Provide Assistance ,4864
+2019.0,American,Damage to Assistive Device,198
+2019.0,American,Storage and Delay of Assistive Device,961
+2019.0,American,Service Animal Problem,531
+2019.0,American,Unsatisfactory Info,79
+2019.0,American,Other,1254
+2019.0,Delta,Refusal To Board Passenger,30
+2019.0,Delta,Refusal to Board w/o Attendant,2
+2019.0,Delta,Security Issues Regarding Disability,3
+2019.0,Delta,Aircraft Not Accessible,18
+2019.0,Delta,Airport Not Accessible,12
+2019.0,Delta,Advance Notice Dispute,15
+2019.0,Delta,Seating Accommodation,615
+2019.0,Delta,Failure to Provide Assistance ,5564
+2019.0,Delta,Damage to Assistive Device,177
+2019.0,Delta,Storage and Delay of Assistive Device,109
+2019.0,Delta,Service Animal Problem,317
+2019.0,Delta,Unsatisfactory Info,65
+2019.0,Delta,Other,655
+2019.0,United,Refusal To Board Passenger,5
+2019.0,United,Refusal to Board w/o Attendant,0
+2019.0,United,Security Issues Regarding Disability,5
+2019.0,United,Aircraft Not Accessible,17
+2019.0,United,Airport Not Accessible,7
+2019.0,United,Advance Notice Dispute,1
+2019.0,United,Seating Accommodation,456
+2019.0,United,Failure to Provide Assistance ,4200
+2019.0,United,Damage to Assistive Device,78
+2019.0,United,Storage and Delay of Assistive Device,213
+2019.0,United,Service Animal Problem,256
+2019.0,United,Unsatisfactory Info,85
+2019.0,United,Other,398
+2019.0,Southwest,Refusal To Board Passenger,29
+2019.0,Southwest,Refusal to Board w/o Attendant,1
+2019.0,Southwest,Security Issues Regarding Disability,6
+2019.0,Southwest,Aircraft Not Accessible,18
+2019.0,Southwest,Airport Not Accessible,17
+2019.0,Southwest,Advance Notice Dispute,0
+2019.0,Southwest,Seating Accommodation,178
+2019.0,Southwest,Failure to Provide Assistance ,1890
+2019.0,Southwest,Damage to Assistive Device,161
+2019.0,Southwest,Storage and Delay of Assistive Device,396
+2019.0,Southwest,Service Animal Problem,672
+2019.0,Southwest,Unsatisfactory Info,72
+2019.0,Southwest,Other,1428
+2019.0,Alaska Airlines,Refusal To Board Passenger,7
+2019.0,Alaska Airlines,Refusal to Board w/o Attendant,1
+2019.0,Alaska Airlines,Security Issues Regarding Disability,2
+2019.0,Alaska Airlines,Aircraft Not Accessible,6
+2019.0,Alaska Airlines,Airport Not Accessible,2
+2019.0,Alaska Airlines,Advance Notice Dispute,1
+2019.0,Alaska Airlines,Seating Accommodation,96
+2019.0,Alaska Airlines,Failure to Provide Assistance ,450
+2019.0,Alaska Airlines,Damage to Assistive Device,20
+2019.0,Alaska Airlines,Storage and Delay of Assistive Device,15
+2019.0,Alaska Airlines,Service Animal Problem,78
+2019.0,Alaska Airlines,Unsatisfactory Info,2
+2019.0,Alaska Airlines,Other,71
+2019.0,JetBlue,Refusal To Board Passenger,4
+2019.0,JetBlue,Refusal to Board w/o Attendant,0
+2019.0,JetBlue,Security Issues Regarding Disability,1
+2019.0,JetBlue,Aircraft Not Accessible,6
+2019.0,JetBlue,Airport Not Accessible,3
+2019.0,JetBlue,Advance Notice Dispute,0
+2019.0,JetBlue,Seating Accommodation,172
+2019.0,JetBlue,Failure to Provide Assistance ,1110
+2019.0,JetBlue,Damage to Assistive Device,7
+2019.0,JetBlue,Storage and Delay of Assistive Device,74
+2019.0,JetBlue,Service Animal Problem,362
+2019.0,JetBlue,Unsatisfactory Info,5
+2019.0,JetBlue,Other,107
+2019.0,Spirit,Refusal To Board Passenger,23
+2019.0,Spirit,Refusal to Board w/o Attendant,0
+2019.0,Spirit,Security Issues Regarding Disability,1
+2019.0,Spirit,Aircraft Not Accessible,6
+2019.0,Spirit,Airport Not Accessible,7
+2019.0,Spirit,Advance Notice Dispute,83
+2019.0,Spirit,Seating Accommodation,292
+2019.0,Spirit,Failure to Provide Assistance ,820
+2019.0,Spirit,Damage to Assistive Device,93
+2019.0,Spirit,Storage and Delay of Assistive Device,137
+2019.0,Spirit,Service Animal Problem,335
+2019.0,Spirit,Unsatisfactory Info,74
+2019.0,Spirit,Other,454
+2019.0,Frontier,Refusal To Board Passenger,2
+2019.0,Frontier,Refusal to Board w/o Attendant,0
+2019.0,Frontier,Security Issues Regarding Disability,0
+2019.0,Frontier,Aircraft Not Accessible,0
+2019.0,Frontier,Airport Not Accessible,0
+2019.0,Frontier,Advance Notice Dispute,2
+2019.0,Frontier,Seating Accommodation,8
+2019.0,Frontier,Failure to Provide Assistance ,215
+2019.0,Frontier,Damage to Assistive Device,1
+2019.0,Frontier,Storage and Delay of Assistive Device,2
+2019.0,Frontier,Service Animal Problem,7
+2019.0,Frontier,Unsatisfactory Info,4
+2019.0,Frontier,Other,3
+2019.0,SkyWest,Refusal To Board Passenger,2
+2019.0,SkyWest,Refusal to Board w/o Attendant,0
+2019.0,SkyWest,Security Issues Regarding Disability,0
+2019.0,SkyWest,Aircraft Not Accessible,0
+2019.0,SkyWest,Airport Not Accessible,0
+2019.0,SkyWest,Advance Notice Dispute,9
+2019.0,SkyWest,Seating Accommodation,21
+2019.0,SkyWest,Failure to Provide Assistance ,47
+2019.0,SkyWest,Damage to Assistive Device,1
+2019.0,SkyWest,Storage and Delay of Assistive Device,9
+2019.0,SkyWest,Service Animal Problem,12
+2019.0,SkyWest,Unsatisfactory Info,1
+2019.0,SkyWest,Other,25
+2019.0,Hawaiian,Refusal To Board Passenger,11
+2019.0,Hawaiian,Refusal to Board w/o Attendant,0
+2019.0,Hawaiian,Security Issues Regarding Disability,0
+2019.0,Hawaiian,Aircraft Not Accessible,5
+2019.0,Hawaiian,Airport Not Accessible,0
+2019.0,Hawaiian,Advance Notice Dispute,1
+2019.0,Hawaiian,Seating Accommodation,76
+2019.0,Hawaiian,Failure to Provide Assistance ,135
+2019.0,Hawaiian,Damage to Assistive Device,29
+2019.0,Hawaiian,Storage and Delay of Assistive Device,30
+2019.0,Hawaiian,Service Animal Problem,63
+2019.0,Hawaiian,Unsatisfactory Info,2
+2019.0,Hawaiian,Other,44
+2019.0,Allegiant Air,Refusal To Board Passenger,5
+2019.0,Allegiant Air,Refusal to Board w/o Attendant,0
+2019.0,Allegiant Air,Security Issues Regarding Disability,0
+2019.0,Allegiant Air,Aircraft Not Accessible,0
+2019.0,Allegiant Air,Airport Not Accessible,0
+2019.0,Allegiant Air,Advance Notice Dispute,0
+2019.0,Allegiant Air,Seating Accommodation,33
+2019.0,Allegiant Air,Failure to Provide Assistance ,198
+2019.0,Allegiant Air,Damage to Assistive Device,9
+2019.0,Allegiant Air,Storage and Delay of Assistive Device,1
+2019.0,Allegiant Air,Service Animal Problem,347
+2019.0,Allegiant Air,Unsatisfactory Info,183
+2019.0,Allegiant Air,Other,17
+,,,
+,,,
+,,,
