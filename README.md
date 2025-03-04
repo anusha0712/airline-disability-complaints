@@ -8,7 +8,7 @@ For this project, I wanted to visualize the disability related complaints that p
 
 ## Goals
 
-The of this project was to incorporate responsive design into our data stories and familiarize ourselves with ai2html. 
+The goal of this project was to incorporate responsive design into our data stories and familiarize ourselves with ai2html. 
 
 I compiled the Department of Transportation's PDF reports from 2019-2023 into CSVs which are available in the repository to help with the data analysis.
 
@@ -37,21 +37,21 @@ Here is the framework that I followed for my analysis. The code notebook contain
 
 2. There are 11 airlines used in this analysis and those were chosen for being the largest U.S commercial carriers by market share (information from Bureau of Transport Statistics)
 
-3. I then compiled the number of flights per airline and the number of enplaned passengers per year to my existing data from the PDFs. This was also gathered from Bureau of Transport Statistics.
+3. Compiled the number of flights per airline and the number of enplaned passengers per year to my existing data from the PDFs. This was also gathered from Bureau of Transport Statistics.
 
-4. Calculated the rate of disability related complaints per a million passengers for each airline and each year. Just using raw complaints would be misleading because over the years, airlines have carrier differential number of passengers and operated different number of flights. We have to be sure that the number of complaints going up is not just because number of passengers and flights are going up too.
+4. Calculated the rate of disability related complaints per million passengers for each airline and each year. Just using raw complaints would be misleading because over the years, airlines have carried different number of passengers and operated different number of flights. We have to be sure that the number of complaints going up is not just because number of passengers and flights are going up too.
 
 
 ## Limitations - "Wants" vs "Needs"
 
 Because of the short time constraint for this project, my entire focus was on the correct analysis of data and using ai2html in creating a responsive webpage. 
 
-I believe I achieved my goals but given time, I would have loved to delve into the Air Traffic Consumer reports that list other complaints and reports against airlines per year to supplement my analysis of these disability complaints. For example, the ATC reports also have data on how many times wheelchairs and other accessibility related baggage was mishandled or delayed, causing pain and difficulty to individuals who needed those services. 
+I believe I achieved my goals but given time, I would have loved to delve into the Air Traffic Consumer reports that list other complaints and reports against airlines per month to supplement my analysis of these disability complaints. For example, the ATC reports also have data on how many times wheelchairs and other accessibility related baggage was mishandled or delayed, causing pain and difficulty to individuals who needed those services. 
 
 
 ## Note on AI use
 
-Claude AI was used for some AI purposes like designing the header and color palette of the HTML site. 
+Claude AI was used for some HTML purposes like designing the header and color palette of the site. 
 
 
 ## Questions
