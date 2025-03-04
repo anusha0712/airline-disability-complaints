@@ -2,7 +2,7 @@
 
 ## Introduction
 
-Hello! My name is Anusha Subramanian and I'm a Data Journalist at Columbia Journalism School. I'm primarily interested in anything that provides critical commentary on the human condition and specifically interested in public health, culture with a South Asian focus, books, poetry and lots and lots of food. You can find my work [here](https://anusha0712.github.io) and this project's completed story [here](https://anusha0712.github.io/airline_disability_complaints/).
+Hello! My name is Anusha Subramanian and I'm a Data Journalist at Columbia Journalism School. I'm primarily interested in anything that provides critical commentary on the human condition and specifically interested in public health, culture with a South Asian focus, books, poetry and lots and lots of food. You can find my work [here](https://anusha0712.github.io) and this project's completed story [here](https://anusha0712.github.io/airline-disability-complaints/).
 
 For this project, I wanted to visualize the disability related complaints that passengers made against airlines. The original data comes from pdfs released by the Department of Transportation. Those can be accessed [here](https://www.transportation.gov/airconsumer/annual-report-disability-related-air-travel-complaints).
 
